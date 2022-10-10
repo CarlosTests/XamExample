@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SomeTestCICD
+build_property.ProjectDir = /Users/actcarlossilva/Projects/SomeTestCICD/SomeTestCICD/SomeTestCICD/

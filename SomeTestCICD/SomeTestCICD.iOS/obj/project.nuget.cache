@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "//6ol69AMqsuYvwRXBInuHSMw3ZVFusDiJkprTwlU6F0jNDZ+aQg3RvnHF+Xflk6kZkBcqEzBAqmpI1Q4sw7ZA==",
+  "success": true,
+  "projectFilePath": "/Users/actcarlossilva/Projects/SomeTestCICD/SomeTestCICD/SomeTestCICD.iOS/SomeTestCICD.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/actcarlossilva/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/actcarlossilva/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/actcarlossilva/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
