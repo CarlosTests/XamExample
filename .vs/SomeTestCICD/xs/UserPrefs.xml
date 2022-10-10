@@ -1,6 +1,27 @@
-﻿<Properties StartupConfiguration="{28842960-4301-4730-80E1-1C2AAE6BC0A8}|Default">
-  <MonoDevelop.Ide.ItemProperties.SomeTestCICD.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SomeTestCICD FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SomeTestCICD.iOS FirstBuild="True" />
+﻿<Properties StartupConfiguration="{F168D394-E2B7-4C85-BD1A-656C5483A9E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.SomeTestCICD.Android PreferredExecutionTarget="Android.nexus_9_nougat_7_1_-_api_25" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_9_nougat_7_1_-_api_25" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SomeTestCICD/SomeTestCICD/MainPage.xaml">
+    <Files>
+      <File FileName="SomeTestCICD/SomeTestCICD/MainPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="SomeTestCICD/SomeTestCICD/MainPage.xaml" Line="8" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SomeTestCICD" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SomeTestCICD.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.33162824-06FA-47FC-B2B1-D9695379A2E7" />
   <MultiItemStartupConfigurations />
 </Properties>
